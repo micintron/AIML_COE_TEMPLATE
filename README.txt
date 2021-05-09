@@ -1,5 +1,8 @@
 The AI/ML COE Template
 
+Site is live here for full demo of use
+https://micintron.github.io/AIML_COE_TEMPLATE/index.html
+
 A business/corporate style responsive site template. It's pretty barebones but should
 go over pretty well for folks wanting to get their serious business on.
 
